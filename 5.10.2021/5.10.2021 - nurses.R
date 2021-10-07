@@ -1,4 +1,3 @@
-# load the politicaldata package
 library(politicaldata)
 library(htmltools)
 library(ggrepel)
